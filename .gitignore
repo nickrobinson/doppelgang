@@ -46,3 +46,6 @@ bower.json
 #Ignore vim temp files
 *.swp
 *.swo
+
+#Ignore rubocop reports
+rubocop.html

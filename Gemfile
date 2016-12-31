@@ -32,6 +32,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+#AWS Gems
+gem 'aws-sdk'
+
 #Authentication
 gem 'devise'
 gem 'omniauth-facebook'
