@@ -51,6 +51,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'rubocop', require: false
   gem 'factory_girl_rails'
+  gem 'capybara'
 end
 
 group :development do
