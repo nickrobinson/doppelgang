@@ -49,3 +49,5 @@ bower.json
 
 #Ignore rubocop reports
 rubocop.html
+
+*.DS_Store
